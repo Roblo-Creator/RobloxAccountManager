@@ -5,7 +5,7 @@ To install, click the **[Download Latest](https://github.com/Roblo-Creator/Roblo
 
 ### Preview
 
-![github-large](https://imgur.com/a/1RokPjJ)
+![github-large](https://github.com/Roblo-Creator/RobloxAccountManager/blob/main/Preview.png)
 
 
 
