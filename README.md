@@ -1,6 +1,6 @@
 ### Download Instructions
 
-To install, click the **[Download Latest](https://github.com/Roblo-Creator/RobloxAccountManager/releases/download/v3.0/RobloxAccountManager.exe)** button to download the latest `.zip` file. After downloading, extract the ZIP and then run the **Roblox Account Manager.exe** file to start the application.
+To install, click the **[Download Latest](https://github.com/Roblo-Creator/RobloxAccountManager/releases/download/v3.1/RobloxAccountManager.exe)** button to download the latest `.zip` file. After downloading, extract the ZIP and then run the **Roblox Account Manager.exe** file to start the application.
 
 
 ### Preview
